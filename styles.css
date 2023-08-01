@@ -131,7 +131,7 @@ section {
 
 .home__profile {
   height: 250px;
-  border-radius: 50%;
+  border-radius: 18%;
   margin-right: 40px;
   transition: filter  3s;
 }
